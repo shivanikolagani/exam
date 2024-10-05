@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fish", "exam\fish.csproj", "{805FA893-3E23-4E28-8154-2E7CEC2D144E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "babyshop", "babyshop\babyshop.csproj", "{C2FB11AE-3420-4A4F-9750-CE4A42A80D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boutique", "boutique\boutique.csproj", "{082AACEC-61C3-4281-B81D-B5B16C7100D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805FA893-3E23-4E28-8154-2E7CEC2D144E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805FA893-3E23-4E28-8154-2E7CEC2D144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805FA893-3E23-4E28-8154-2E7CEC2D144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805FA893-3E23-4E28-8154-2E7CEC2D144E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FB11AE-3420-4A4F-9750-CE4A42A80D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FB11AE-3420-4A4F-9750-CE4A42A80D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FB11AE-3420-4A4F-9750-CE4A42A80D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FB11AE-3420-4A4F-9750-CE4A42A80D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082AACEC-61C3-4281-B81D-B5B16C7100D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082AACEC-61C3-4281-B81D-B5B16C7100D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082AACEC-61C3-4281-B81D-B5B16C7100D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082AACEC-61C3-4281-B81D-B5B16C7100D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C6206D9-9147-4A1D-8DAA-11E32179A64D}
+	EndGlobalSection
+EndGlobal
